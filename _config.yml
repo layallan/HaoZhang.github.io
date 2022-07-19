@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "CA"
-title                    : "Hao Zhang / Site Title"
+title                    : "Hao Zhang"
 title_separator          : "-"
 name                     : &name "Hao Zhang"
-description              : &description "personal description"
+description              : &description "Research Assistant at University of Victoria"
 url                      : https://HaoZhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "layallan/HaoZhang.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Hao Zhang"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
